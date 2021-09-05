@@ -1,0 +1,1 @@
+# sqs-jms-spring-example
